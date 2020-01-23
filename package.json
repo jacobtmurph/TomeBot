@@ -1,0 +1,30 @@
+{
+  "name": "tomebot",
+  "version": "1.0.0",
+  "description": "A Discord.js Bot that helps DMs and players manage their DnD 5e campaign with ease",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobtmurph/TomeBot.git"
+  },
+  "keywords": [
+    "dnd",
+    "board-games",
+    "bots",
+    "ai"
+  ],
+  "author": "Jacob T. Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobtmurph/TomeBot/issues"
+  },
+  "homepage": "https://github.com/jacobtmurph/TomeBot#readme"
+}
